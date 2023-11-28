@@ -29,10 +29,3 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-
-# Docker
-docker-compose.yml
-Dockerfile
-entrypoint.sh
-Gemfile
-Gemfile.lock
